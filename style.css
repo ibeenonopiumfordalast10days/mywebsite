@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    word-spacing: 50px;
+    padding: 10px;
+    font-size: 50px;
+    background:white;
+    border-radius: 50px;
+    width: 40%;
+    margin: 0 auto;
+}
+h2{
+    background: white;
+    border-radius: 50px;
+    width:20%;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+}
+h3 {
+    background: white;
+    border-radius: 50px;
+    width: 30%;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+h4{
+    background: white;
+    border-radius: 50px;
+    width:75%;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+}
+
+.aboutme{
+    display: block;
+    width: 10%;
+    height: 10%;
+    margin: 0 auto;
+    margin-top: 100%;
+}
