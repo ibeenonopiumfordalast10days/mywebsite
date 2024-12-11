@@ -1,14 +1,14 @@
 body{
     background-color: black;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
 }
 h1{
     align-self: center;
     align-items: center;
     align-content: center;
     text-align: center;
+    
 }
 nav {
     text-align: center;
